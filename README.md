@@ -64,3 +64,6 @@ The dataset shows that female customers had slightly higher churn rates than mal
 - Introduce targeted retention offers for customers on high-churn subscription plans.
 - Enhance customer support to reduce dissatisfaction and improve review ratings.
 - Track churn monthly to detect patterns early and intervene.
+
+### Author
+Created by **Tessy Afoma** for understanding the telecommunications business churn rate
